@@ -1,1 +1,2 @@
-# xly2
+# xly
+test go  module
