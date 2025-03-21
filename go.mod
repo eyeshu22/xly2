@@ -1,1 +1,1 @@
-module github.com/eyeshu22/xly
+module github.com/eyeshu22/xly2
